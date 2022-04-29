@@ -1,0 +1,14 @@
+
+
+.UserList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.UserList-para {
+    margin-top: 1rem;
+    margin-bottom: 0.4rem;
+}
+
